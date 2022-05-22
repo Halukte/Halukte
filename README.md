@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Halukte
-- 👀 I’m interested in ...cybersecurity, pyhthon
+- 👀 I’m interested in ...cybersecurity, python ..
 - 🌱 I’m currently learning ...cybersecurity, 
 - 💞️ I’m looking to collaborate on ...cybersecurity, kali linux
 - 📫 How to reach me ... 
