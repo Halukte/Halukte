@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Halukte
-- 👀 I’m interested in ...cybersecurity, python ..
-- 🌱 I’m currently learning ...cybersecurity, 
-- 💞️ I’m looking to collaborate on ...cybersecurity, kali linux
+- 👀 I’m interested in ...infosec, python , cmmi, spice ..
+- 🌱 I’m currently learning ...infosec, 
+- 💞️ I’m looking to collaborate on ...infosec, kali linux
 - 📫 How to reach me ... 
 
 <!---
